@@ -50,24 +50,28 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## Badges
 <Br>
-#soon to import
+#More Incoming
 
 <p>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZURE BADGE" width="300px" >
-</a>
-  
-<a href="(https://www.credly.com/earner/earned/badge/131761c1-212a-41ac-b47d-4edff1e70afb)">
-<img src="https://images.credly.com/size/340x340/images/8640c588-574b-4776-8c91-2b9f6c27ce10/Agile_Explorer.png" alt="Agile Explorer" width="300px" >
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZURE BADGE" width="180px" >
 </a>
 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
-<img src="https://images.credly.com/size/340x340/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png" alt="Kusto #3" width="300px" >
+<a href="https://www.credly.com/earner/earned/badge/131761c1-212a-41ac-b47d-4edff1e70afb">
+<img src="https://images.credly.com/size/340x340/images/8640c588-574b-4776-8c91-2b9f6c27ce10/Agile_Explorer.png" alt="Agile Explorer" width="180px" >
+</a>
+
+  <a href="https://www.credly.com/earner/earned/badge/3cb93d1e-4dc9-49be-8ba1-341ff1e15f43">
+<img src="https://images.credly.com/size/340x340/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png" alt="Kusto #3" width="180px" >
     
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
-<img src="https://images.credly.com/size/340x340/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png" alt="Kusto #3" width="300px" >
+  <a href="https://www.credly.com/earner/earned/badge/8351d414-8416-4a39-8d60-e334076c2cbd">
+<img src="https://images.credly.com/size/340x340/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" alt="IBM Cloud Essential" width="180px" >
+</a>
+<a href="https://www.credly.com/earner/earned/badge/cd7c9bea-f08e-42d7-914c-5f2ea9f697e3">
+<img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" alt="Cloud Core" width="180px" >
 </a>
 </p>
+<HR>
 
 <!--
 **ViorelMuresan/ViorelMuresan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
