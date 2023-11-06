@@ -25,7 +25,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <br />
-
+<br>
  <img align="left" alt="Canva" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  
 <br />
