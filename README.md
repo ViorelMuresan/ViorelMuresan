@@ -46,9 +46,9 @@ I'm an indie full-stack developer and content creator building my version of the
 <Br>
 
 <HR>
-![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/e77a357d-6c32-4c0b-9048-0041de179532)
 
 
+### Badges 
 
 
 <!--
