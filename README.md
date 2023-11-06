@@ -16,7 +16,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="AWS" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Google Cloud " width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
-#![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/65de5a2f-2007-4621-8349-e7dfafd2d00d)
+# DevOps
 
 <img align="left" alt="Windows " width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -26,6 +26,8 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+# Graphic and Creativity 
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <br />
@@ -35,7 +37,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <br />
 
 #
-
+#![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/65de5a2f-2007-4621-8349-e7dfafd2d00d)
 
 
 
