@@ -40,15 +40,10 @@ I'm an indie full-stack developer and content creator building my version of the
 # Graphic and Creativity 
 <p>
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
+<img align="left" alt="Canva" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> </p>
 
-
-
-<br>
- <img align="left" alt="Canva" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
- 
-
-#
+<Br>
+<Br>
 #![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/65de5a2f-2007-4621-8349-e7dfafd2d00d)
 
 
