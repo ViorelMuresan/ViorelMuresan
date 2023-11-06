@@ -44,7 +44,10 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <Br>
 <Br>
-#![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/65de5a2f-2007-4621-8349-e7dfafd2d00d)
+
+<HR>
+![OfficeServerGIF](https://github.com/ViorelMuresan/ViorelMuresan/assets/43544434/e77a357d-6c32-4c0b-9048-0041de179532)
+
 
 
 
