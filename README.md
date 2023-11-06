@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-# Viorel Muresan ss
+# Viorel Muresan 
+
+**'Digital Craftsman ( Enginner / Bussiness IT Arhitect  / Enthusiast Gamer & Husband'**
+
+
 
 🏄‍♂️ Forrest Knight
 <!--
