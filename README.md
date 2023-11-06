@@ -39,7 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### Graphic and Creativity 
 <p>
-<img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 <img align="left" alt="Canva" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> </p>
 
 <Br>
@@ -50,8 +50,24 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ## Badges
 <Br>
-#soon to import 
+#soon to import
 
+<p>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZURE BADGE" width="300px" >
+</a>
+  
+<a href="(https://www.credly.com/earner/earned/badge/131761c1-212a-41ac-b47d-4edff1e70afb)">
+<img src="https://images.credly.com/size/340x340/images/8640c588-574b-4776-8c91-2b9f6c27ce10/Agile_Explorer.png" alt="Agile Explorer" width="300px" >
+</a>
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
+<img src="https://images.credly.com/size/340x340/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png" alt="Kusto #3" width="300px" >
+    
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ViorelMuresan-8328/33A561CC4932544?sharingId=DD5B4AFAE7FE33C1">
+<img src="https://images.credly.com/size/340x340/images/9e9311e6-911b-4193-86ae-9b80c8b410fe/image.png" alt="Kusto #3" width="300px" >
+</a>
+</p>
 
 <!--
 **ViorelMuresan/ViorelMuresan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
