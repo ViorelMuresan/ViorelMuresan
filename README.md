@@ -16,7 +16,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="AWS" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Google Cloud " width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
-</n>
+<br>
 
 # DevOps
 
@@ -29,7 +29,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-</n>
+<br>
 
 # Graphic and Creativity 
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
