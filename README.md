@@ -1,7 +1,9 @@
 
 
 # Viorel Muresan 
+
 ### Hi there 👋
+
 <code>Digital Craftsman ( Enginner / Bussiness IT Arhitect  / Enthusiast Gamer & Husband)</code>
 
 🏄‍♂️ Forrest Knight
