@@ -2,7 +2,7 @@
 
 # Viorel Muresan 
 
-**'Digital Craftsman ( Enginner / Bussiness IT Arhitect  / Enthusiast Gamer & Husband'**
+**'Digital Craftsman ( Enginner / Bussiness IT Arhitect  / Enthusiast Gamer & Husband)'**
 
 
 
