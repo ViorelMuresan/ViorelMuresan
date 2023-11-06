@@ -9,9 +9,9 @@
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "<a href="https://youtube.com/fknight" rel="nofollow">ForrestKnight</a>" to more than 400k subscribers.
 🏄‍♂️ Forrest Knight
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
-# ☁️ Cloud  
+### ☁️ Cloud  
 <p>
 <img align="left" alt="Azure" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="left" alt="AWS" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -22,7 +22,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <Br>
 <Br>
 
-# DevOps
+### DevOps
 <p>
 <img align="left" alt="Windows " width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -37,7 +37,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <Br>
 <Br>
 
-# Graphic and Creativity 
+### Graphic and Creativity 
 <p>
 <img align="left" alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Canva" width="60px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> </p>
@@ -48,7 +48,9 @@ I'm an indie full-stack developer and content creator building my version of the
 <HR>
 
 
-### Badges 
+## Badges
+<Br>
+#soon to import 
 
 
 <!--
